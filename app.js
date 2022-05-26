@@ -10,6 +10,9 @@ http.createServer((req, res) => {
             case "/contato":
                 res.end("Você está na página CONTATO!");
                 break;
+            default:
+                res.end("Você está no nosso servidor");
+                break;
         }
-        
+
 }).listen(3030);
