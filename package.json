@@ -1,0 +1,23 @@
+{
+  "name": "subindo-um-servidor",
+  "version": "1.0.0",
+  "description": "Prática de subir servidor acompanhando o PG",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biancabps/Subindo-um-servidor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biancabps/Subindo-um-servidor/issues"
+  },
+  "homepage": "https://github.com/Biancabps/Subindo-um-servidor#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
